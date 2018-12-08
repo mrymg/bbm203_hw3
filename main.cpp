@@ -1,6 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, BBM203!" << std::endl;
+
+    int x = 10;
+    int toplam = x+22;
+    cout<<toplam;
+
     return 0;
 }
